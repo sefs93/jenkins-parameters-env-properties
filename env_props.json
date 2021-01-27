@@ -48,5 +48,17 @@
                 "creds": "some-uat-sa-north-1-creds"
             }
         }
+    },
+    "IND": {
+        "stag": {
+            "in-west-1": {
+                "project_id": "some-uat-sa-west-1-project",
+                "creds": "some-uat-sa-west-1-creds"
+            },
+            "in-north-1": {
+                "project_id": "some-uat-sa-north-1-project",
+                "creds": "some-uat-sa-north-1-creds"
+            }
+        }
     }
 }
